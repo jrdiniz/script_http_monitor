@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import os, sys, logging
 from http.client import HTTPConnection, socket
 from datetime import datetime
